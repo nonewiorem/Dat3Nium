@@ -16,5 +16,9 @@ Developed By TuranCyberTeam
 
 Come Our Telegram Group And I Give Code TO You
 
+#Termux
+
+Termux supports (Beta)
+
 
 
